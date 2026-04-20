@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+opencv-python
+matplotlib
+tqdm
+scikit-learn
+albumentations
+seaborn
+onnxruntime
+kaggle
